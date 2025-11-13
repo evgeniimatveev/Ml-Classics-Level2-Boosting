@@ -1,0 +1,13 @@
+
+# Python scripts
+*.py linguist-detectable=true linguist-language=Python
+
+# Notebooks (Colab / Jupyter)
+*.ipynb linguist-detectable=true linguist-language=Jupyter\ Notebook
+
+# Data files: do not count as programming languages
+*.csv  linguist-detectable=false
+*.tsv  linguist-detectable=false
+*.xls  linguist-detectable=false
+*.xlsx linguist-detectable=false
+*.parquet linguist-detectable=false
