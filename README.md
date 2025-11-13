@@ -1,4 +1,27 @@
-# 🚀🔥 ML Classics in Python - Level 2 (Google Colab) 🔥 
+<p align="center">
+
+  <!-- Core stack -->
+  <img src="https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Environment-Google_Colab-F9AB00?logo=googlecolab&logoColor=white" />
+
+  <br/>
+
+  <!-- Algorithms -->
+  <img src="https://img.shields.io/badge/Boosting-XGBoost_•_LightGBM_•_CatBoost-FF9800" />
+  <img src="https://img.shields.io/badge/Tasks-Regression_•_Classification_•_Model_Comparison-4CAF50" />
+
+  <br/>
+
+  <!-- Meta -->
+  <img src="https://img.shields.io/badge/Level-Advanced-red" />
+  <img src="https://img.shields.io/badge/Status-Active-success" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+
+</p>
+
+---
+
+# 🔥 ML Classics in Python - Level 2 (Google Colab) 🔥 
 **Advanced Machine Learning models implemented in Python using Google Colab**  
 
 ![ML](https://img.shields.io/badge/Machine_Learning-Python-blue) ![Boosting](https://img.shields.io/badge/Boosting-XGBoost%20%7C%20LightGBM%20%7C%20CatBoost-orange) ![Status](https://img.shields.io/badge/Status-Active-green) ![License](https://img.shields.io/badge/License-MIT-lightgrey)  
