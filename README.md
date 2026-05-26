@@ -15,7 +15,7 @@
   <!-- Meta -->
   <img src="https://img.shields.io/badge/Level-Advanced-red" />
   <img src="https://img.shields.io/badge/Status-Active-success" />
-  <img src="https://img.shields.io/badge/License-MIT-lightgrey" />
+
 
 </p>
 
