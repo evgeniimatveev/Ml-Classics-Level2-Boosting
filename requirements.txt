@@ -9,3 +9,4 @@ xgboost
 lightgbm
 catboost
 shap
+jinja2   # DataFrame.style in the CatBoost classifier notebook
