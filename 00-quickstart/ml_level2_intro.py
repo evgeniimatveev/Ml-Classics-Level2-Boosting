@@ -10,7 +10,12 @@ This script:
 - Shows which boosting libraries are used
 """
 
+import sys
 from textwrap import indent
+
+# Emoji in the output: make sure Windows consoles (cp1252) can print them.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
 
 # ---------------------------------------------------------------------------
 # 1. High-level description
